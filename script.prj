@@ -1,0 +1,7 @@
+id:0
+addr:https://github.com/Netflix?page=1
+info-1:TAG,poll-include-fragment,link,html
+id:1
+info-1:CLASS,repository-meta,Description,text
+info-2:CLASS,text-emphasized,info,text
+info-3:CLASS,social-count,subInfo,text
