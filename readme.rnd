@@ -8,7 +8,8 @@
  ONYCOM INC.
 ###########################################################################
 relation opensource software(and library) list and include license
-ApacheHttpComponents       https://hc.apache.org           che License 2.0 
+ApacheHttpComponents       https://hc.apache.org           Apache License 2.0 
+jsop Java HTML Parser      http://jsoup.org                MIT License 
 ###########################################################################
 iclude license
                                  Apache License
